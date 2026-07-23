@@ -1,0 +1,12 @@
+
+========== SALES REPORT ==========
+
+Total Orders : 10
+
+Total Revenue : Rs.52164
+
+Average Order Value : Rs.5216.4
+
+Delivered Orders : 10
+
+=================================

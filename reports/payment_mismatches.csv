@@ -1,0 +1,5 @@
+order_id,customer_id,product_name,quantity,price,order_date,status,payment_id,payment_amount,payment_status,payment_date
+1003,C103,Laptop Stand,3,999,2026-07-15,Pending,P1003,2997,Failed,2026-07-15
+1008,C107,Smart Watch,1,6999,2026-07-15,Pending,P1008,6999,Pending,2026-07-15
+1012,C111,Bluetooth Speaker,2,2999,2026-07-15,Cancelled,P1012,5998,Failed,2026-07-15
+1015,C114,External SSD,1,5499,2026-07-15,Pending,P1015,5499,Pending,2026-07-15

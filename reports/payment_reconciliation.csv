@@ -1,0 +1,16 @@
+order_id,customer_id,product_name,quantity,price,order_date,status,payment_id,payment_amount,payment_status,payment_date
+1001,C101,Wireless Mouse,2,699,2026-07-15,Delivered,P1001,1398,Success,2026-07-15
+1002,C102,Mechanical Keyboard,1,2499,2026-07-15,Delivered,P1002,2499,Success,2026-07-15
+1003,C103,Laptop Stand,3,999,2026-07-15,Pending,P1003,2997,Failed,2026-07-15
+1004,C104,USB-C Hub,2,1599,2026-07-15,Delivered,P1004,3198,Success,2026-07-15
+1005,C105,Gaming Headset,1,3499,2026-07-15,Cancelled,P1005,3499,Success,2026-07-15
+1006,C101,Monitor 24 Inch,1,10999,2026-07-15,Delivered,P1006,10999,Success,2026-07-15
+1007,C106,Office Chair,2,8999,2026-07-15,Delivered,P1007,17998,Success,2026-07-15
+1008,C107,Smart Watch,1,6999,2026-07-15,Pending,P1008,6999,Pending,2026-07-15
+1009,C108,Power Bank,4,1799,2026-07-15,Delivered,P1009,7196,Success,2026-07-15
+1010,C109,Coffee Mug,5,199,2026-07-15,Delivered,P1010,995,Success,2026-07-15
+1011,C110,Notebook,10,99,2026-07-15,Delivered,P1011,990,Success,2026-07-15
+1012,C111,Bluetooth Speaker,2,2999,2026-07-15,Cancelled,P1012,5998,Failed,2026-07-15
+1013,C112,Desk Lamp,3,1299,2026-07-15,Delivered,P1013,3897,Success,2026-07-15
+1014,C113,Phone Charger,6,499,2026-07-15,Delivered,P1014,2994,Success,2026-07-15
+1015,C114,External SSD,1,5499,2026-07-15,Pending,P1015,5499,Pending,2026-07-15

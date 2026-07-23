@@ -1,0 +1,16 @@
+
+========== INVENTORY REPORT ==========
+
+Total Products : 20
+Total Stock    : 1486
+Average Price  : Rs.2821.5
+
+Low Stock Products : 4
+
+Highest Stock Product :
+Pen Pack
+
+Lowest Stock Product :
+Office Chair
+
+======================================

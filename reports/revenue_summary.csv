@@ -1,0 +1,11 @@
+order_id,customer_id,product_name,quantity,price,order_date,status,revenue
+1001,C101,Wireless Mouse,2,699,2026-07-15,Delivered,1398
+1002,C102,Mechanical Keyboard,1,2499,2026-07-15,Delivered,2499
+1004,C104,USB-C Hub,2,1599,2026-07-15,Delivered,3198
+1006,C101,Monitor 24 Inch,1,10999,2026-07-15,Delivered,10999
+1007,C106,Office Chair,2,8999,2026-07-15,Delivered,17998
+1009,C108,Power Bank,4,1799,2026-07-15,Delivered,7196
+1010,C109,Coffee Mug,5,199,2026-07-15,Delivered,995
+1011,C110,Notebook,10,99,2026-07-15,Delivered,990
+1013,C112,Desk Lamp,3,1299,2026-07-15,Delivered,3897
+1014,C113,Phone Charger,6,499,2026-07-15,Delivered,2994

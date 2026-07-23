@@ -1,0 +1,21 @@
+product_id,product_name,category,stock,price
+101,Wireless Mouse,Electronics,120,699
+102,Mechanical Keyboard,Electronics,18,2499
+103,Laptop Stand,Accessories,35,999
+104,USB-C Hub,Electronics,9,1599
+105,Gaming Headset,Electronics,42,3499
+106,Office Chair,Furniture,5,8999
+107,Study Table,Furniture,12,4999
+108,Monitor 24 Inch,Electronics,27,10999
+109,Water Bottle,Home,150,299
+110,Coffee Mug,Home,85,199
+111,Notebook,Stationery,210,99
+112,Pen Pack,Stationery,340,149
+113,Backpack,Bags,16,1899
+114,Smart Watch,Electronics,8,6999
+115,Bluetooth Speaker,Electronics,23,2999
+116,Desk Lamp,Home,14,1299
+117,Phone Charger,Electronics,95,499
+118,Power Bank,Electronics,11,1799
+119,HDMI Cable,Accessories,60,399
+120,External SSD,Electronics,6,5499

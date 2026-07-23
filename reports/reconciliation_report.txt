@@ -1,0 +1,9 @@
+
+========== PAYMENT RECONCILIATION REPORT ==========
+
+Total Orders          : 15
+Successful Payments   : 11
+Failed Payments       : 2
+Pending Payments      : 2
+
+===================================================
